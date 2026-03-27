@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/';
+const imageRoot = 'https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/';
